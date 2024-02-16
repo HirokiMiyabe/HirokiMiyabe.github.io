@@ -1,6 +1,6 @@
 # Resume
 
-## Basuc Information
+## Basic Information
 
 |key|value|
 |---|---|
@@ -35,3 +35,4 @@ Below, I outline the areas of interest.
 
 ### Presentation
 - 第3回計算社会科学会大会(CSSJ2024)
+  『歌詞を対象とした社会言語学の変異理論の検証：過去 76 年間の Billboard Chart の分析』(https://www.researchgate.net/publication/378235865_geciwoduixiangtoshitashehuiyanyuxuenobianyililunnojianzhengguoqu_76_nianjianno_Billboard_Chart_nofenxi)
