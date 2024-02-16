@@ -14,19 +14,19 @@
 ## Resear Topic
 I am interested in how scientific communities are structured, how they generate scientific knowledge, and further, how such information is disseminated and accepted in the society. My current goal is to quantitatively analyze these socioscientific phenomena using methods from computer science. 
 Below, I outline the areas of interest.
-<p>
--Sociology of science
--STS(Science and technology studies / science, technology, and society)
--Computational Social Science
--Sciece of Science
-</p>
+
+- Sociology of science
+- STS(Science and technology studies / science, technology, and society)
+- Computational Social Science
+- Sciece of Science
+
 
 
 ## Rrograming Language
-<p>
+
 - python
 - R
-</p>
+
 
 
 
